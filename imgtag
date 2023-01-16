@@ -1,0 +1,288 @@
+1568005104_ronak_fire_71_1568005104712_1.jpg - image/ABC-6KG-SAFEPRO.jpg
+
+<header>
+   <style type="text/css">
+      .modal.show .modal-dialog {
+          z-index: 9999;
+      }
+   </style>
+   <div class="silder_home">
+      <div style="min-height: 50px;">
+         <!-- Jssor Slider Begin -->
+         <style>
+            /* jssor slider loading skin spin css */
+            .jssorl-009-spin img {
+            animation-name: jssorl-009-spin;
+            animation-duration: 1.6s;
+            animation-iteration-count: infinite;
+            animation-timing-function: linear;
+            }
+            @keyframes jssorl-009-spin {
+            from {
+            transform: rotate(0deg);
+            }
+            to {
+            transform: rotate(360deg);
+            }
+            }
+         </style>
+         <div id="slider1_container" style="visibility: hidden; position: relative; margin: 0 auto;
+            top: 0px; left: 0px; width: 1300px; height: 500px; overflow: hidden;">
+            <!-- Loading Screen -->
+            <div data-u="loading" class="jssorl-009-spin" style="position:absolute;top:0px;left:0px;width:100%;height:100%;text-align:center;background-color:rgba(0,0,0,0.7);">
+               <img style="margin-top:-19px;position:relative;top:50%;width:38px;height:38px;" src="http://ronakfire.com/assets/mayu/jssor_carousel_slider/svg/loading/static-svg/spin.svg" />
+            </div>
+            <!-- Slides Container -->
+            <div data-u="slides" style="position: absolute; left: 0px; top: 0px; width: 1300px; height: 500px; overflow: hidden;">
+                              <div>
+                  <div class="item slider_p">
+                     <img src="http://ronakfire.com/assets/img/products/1566556605_fortune_33_1566556604929_1.jpg" data-u="image" class="slider_imgs" alt="silder-img">
+                  </div>
+               </div>
+                              <div>
+                  <div class="item slider_p">
+                     <img src="http://ronakfire.com/assets/img/products/1566556621_fortune_42_1566556621704_1.jpg" data-u="image" class="slider_imgs" alt="silder-img">
+                  </div>
+               </div>
+                              <div>
+                  <div class="item slider_p">
+                <img src="http://ronakfire.com/assets/img/products/1566556634_fortune_73_1566556634317_7.jpg" data-u="image" class="slider_imgs" alt="silder-img">
+                  </div>
+               </div>
+                           </div>
+            <!--#region Bullet Navigator Skin Begin -->
+            <!-- Help: https://www.jssor.com/development/slider-with-bullet-navigator.html -->
+            <style>
+               .jssorb031 {position:absolute;}
+               .jssorb031 .i {position:absolute;cursor:pointer;}
+               .jssorb031 .i .b {fill:#000;fill-opacity:0.5;stroke:#fff;stroke-width:1200;stroke-miterlimit:10;stroke-opacity:0.3;}
+               .jssorb031 .i:hover .b {fill:#fff;fill-opacity:.7;stroke:#000;stroke-opacity:.5;}
+               .jssorb031 .iav .b {fill:#fff;stroke:#000;fill-opacity:1;}
+               .jssorb031 .i.idn {opacity:.3;}
+            </style>
+            <div data-u="navigator" class="jssorb031" style="position:absolute;bottom:12px;right:12px;" data-autocenter="1" data-scale="0.5" data-scale-bottom="0.75">
+               <div data-u="prototype" class="i" style="width:16px;height:16px;">
+                  <svg viewBox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                     <circle class="b" cx="8000" cy="8000" r="5800"></circle>
+                  </svg>
+               </div>
+            </div>
+            <!--#endregion Bullet Navigator Skin End -->
+            <!--#region Arrow Navigator Skin Begin -->
+            <!-- Help: https://www.jssor.com/development/slider-with-arrow-navigator.html -->
+            <style>
+               .jssora051 {display:block;position:absolute;cursor:pointer;}
+               .jssora051 .a {fill:none;stroke:#fff;stroke-width:360;stroke-miterlimit:10;}
+               .jssora051:hover {opacity:.8;}
+               .jssora051.jssora051dn {opacity:.5;}
+               .jssora051.jssora051ds {opacity:.3;pointer-events:none;}
+            </style>
+            <div data-u="arrowleft" class="jssora051" style="width:55px;height:55px;top:0px;left:25px;" data-autocenter="2" data-scale="0.75" data-scale-left="0.75">
+               <svg viewBox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                  <polyline class="a" points="11040,1920 4960,8000 11040,14080 "></polyline>
+               </svg>
+            </div>
+            <div data-u="arrowright" class="jssora051" style="width:55px;height:55px;top:0px;right:25px;" data-autocenter="2" data-scale="0.75" data-scale-right="0.75">
+               <svg viewBox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                  <polyline class="a" points="4960,1920 11040,8000 4960,14080 "></polyline>
+               </svg>
+            </div>
+            <!--#endregion Arrow Navigator Skin End -->
+         </div>
+         <!-- Jssor Slider End -->
+      </div>
+   </div>
+</header>
+
+
+
+
+
+
+
+
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+          <meta charset="utf-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+          <meta name="description" content="A1 Fire Safety Pvt. Ltd. is amongst india's one of the manufacturer and full solution providers of firefighting equipment, fire protection system,fire alarm,security system and safety engineering under one group.">
+          <meta name="author" content="">
+          <title>A1 Fire Safety Pvt. Ltd.</title>
+         
+          <link href="index_files/bootstrap.min.css" rel="stylesheet">
+         
+          <link href="index_files/modern-business.css" rel="stylesheet">
+     
+          <link href="index_files/bootstrap-grid.css" rel="stylesheet">
+    
+         
+          <link href="index_files/font-awesome.min.css" rel="stylesheet">
+          <link rel="stylesheet" href="index_files/owl.carousel.min.css">
+          
+          <link href="index_files/sweetalert2.min.css" rel="stylesheet">
+          <link href="index_files/mayu_common.css" rel="stylesheet">
+          <link href="index_files/mayuresh_responsive.css" rel="stylesheet">
+       </head>
+       <body>
+       
+          <div class="header-top hidden-xs">
+             <div class="top-section">
+                <ul class="social">
+                   <li><a href="mailto:ronak.fireindia@gmail.com"><i class="fa fa-google-plus"></i></a></li>
+                   <li><a href="#."><i class="fa fa-facebook"></i></a></li>
+                   <li><a href="#."><i class="fa fa-linkedin"></i></a></li>
+                </ul>
+                <div class="info-block">
+                   <div class="top_phone">
+                      Phone:
+                      <strong>+919004070460</strong>
+                   </div>
+                   <div class="top_address">
+                      Location:
+                      <a class="link_n" href="Contact.html"><strong>Mahim Road, Palghar.</strong></a>
+                   </div>
+                </div>
+             </div>
+          </div>
+          <nav class="navbar navbar-expand-lg navbar-dark bg-white navbar_two">
+             <div class="container">
+                <a class="navbar-brand" href="index.html">
+                   <div class="brand_logo">
+                      
+                      <img src="image/A1logo.jpg" alt="logo">
+                   </div>
+                </a>
+                <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                   <ul class="navbar-nav ml-auto">
+                      <li class="nav-item">
+                         <a class="nav-link" href="index.html">Home</a>
+                      </li>
+                      <li class="nav-item">
+                         <a class="nav-link" href="About.html">About us</a>
+                      </li>
+                      <li class="nav-item">
+                         <a class="nav-link" href="Profile.html">Profile</a>
+                      </li>
+                     
+                      <li class="nav-item dropdown">
+                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                         Our Products
+                         </a>
+                         <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
+                                                       <a class="dropdown-item" href="http://ronakfire.com/product/subcategory/1">Fire Extinguisher</a>
+                                                       <a class="dropdown-item" href="http://ronakfire.com/product/subcategory/3">Hose Drum</a>
+                                                       <a class="dropdown-item" href="http://ronakfire.com/product/subcategory/17">Fire Hydrant System</a>
+                                                 </div>
+                      </li>
+                      <li class="nav-item">
+                         <a class="nav-link" href="Contact.html">Contact us</a>
+                      </li>
+                      
+                      <li class="nav-item" style="width: 8rem;word-break: break-all;">
+                         <a class="nav-link" href="How To Use.html">How To Use?</a>
+                      </li>
+                      <li class="nav-item" style="width: 7rem;cursor: pointer;">
+                         <a class="nav-link" data-toggle="modal" data-target="#myModal"><i class="fa fa-file-pdf-o" aria-hidden="true" style="color: rgb(212, 0, 0);"></i> Brochure</a>
+                      </li>
+                   </ul>
+                </div>
+             </div>
+          </nav><header>
+       <style type="text/css">
+          .modal.show .modal-dialog {
+              z-index: 9999;
+          }
+       </style>
+       <div class="silder_home">
+          <div style="min-height: 50px;">
+             <!-- Jssor Slider Begin -->
+             <style>
+                /* jssor slider loading skin spin css */
+                .jssorl-009-spin img {
+                animation-name: jssorl-009-spin;
+                animation-duration: 1.6s;
+                animation-iteration-count: infinite;
+                animation-timing-function: linear;
+                }
+                @keyframes jssorl-009-spin {
+                from {
+                transform: rotate(0deg);
+                }
+                to {
+                transform: rotate(360deg);
+                }
+                }
+             </style>
+             <div id="slider1_container" style="visibility: visible; position: relative; margin: 0px auto; top: 0px; left: 0px; width: 1366px; height: 525.385px; overflow: hidden;" data-jssor-slider="1">
+                <!-- Loading Screen -->
+                
+                <!-- Slides Container -->
+                <div style="position: absolute; display: block; top: 0px; left: 0px; width: 1366px; height: 525.385px;"><div style="position: absolute; display: block; top: 12.6923px; left: 33px; width: 1300px; height: 500px; transform: scale(1.05182);"><div data-u="slides" style="position: absolute; left: 0px; top: 0px; width: 1300px; height: 500px; overflow: hidden; margin: 0px; padding: 0px; transform-style: flat; z-index: 0; pointer-events: none;"><div style="top: 0px; left: 0px; width: 1300px; height: 500px; position: absolute; display: block; z-index: 0;"></div></div><div data-u="slides" style="position: absolute; left: 0px; top: 0px; width: 1300px; height: 500px; overflow: hidden; margin: 0px; padding: 0px; transform-style: flat; z-index: 0;">
+                                  <div style="top: 0px; left: 0px; width: 1300px; height: 500px; position: absolute; overflow: hidden; transform-style: flat; z-index: 1;"><div style="top: 0px; left: 0px; width: 1300px; height: 500px; position: absolute; display: block; overflow: hidden; background-color: rgba(0, 0, 0, 0);"><img src="index_files/1566556605_fortune_33_1566556604929_1.jpg" data-u="image" class="slider_imgs" alt="silder-img" style="top: 0px; left: -158.081px; width: 1616.16px; height: 500px; position: absolute; display: block; max-width: 10000px; z-index: 1;" data-events="auto" data-display="block" border="0"></div><div style="top: 0px; left: 0px; width: 1300px; height: 500px; position: absolute; display: block; transform-style: preserve-3d; z-index: 1;" data-events="auto" data-display="block">
+                      <div class="item slider_p" data-events="auto" data-display="block" style="z-index: 1; top: 0px; left: 0px; width: 1300px; height: 500px; position: absolute; display: block;">
+                         
+                      </div>
+                   </div></div>
+                                  <div style="top: 0px; left: 1300px; width: 1300px; height: 500px; position: absolute; overflow: hidden; transform-style: flat; z-index: 1;"><div style="top: 0px; left: 0px; width: 1300px; height: 500px; position: absolute; display: block; overflow: hidden; background-color: rgba(0, 0, 0, 0);"><img src="index_files/1566556621_fortune_42_1566556621704_1.jpg" data-u="image" class="slider_imgs" alt="silder-img" style="top: 0px; left: -158.081px; width: 1616.16px; height: 500px; position: absolute; display: block; max-width: 10000px; z-index: 1;" data-events="auto" data-display="block" border="0"></div><div style="top: 0px; left: 0px; width: 1300px; height: 500px; position: absolute; display: block; transform-style: preserve-3d; z-index: 1;" data-events="auto" data-display="block">
+                      <div class="item slider_p" data-events="auto" data-display="block" style="z-index: 1; top: 0px; left: 0px; width: 1300px; height: 500px; position: absolute; display: block;">
+                         
+                      </div>
+                   </div></div>
+                                  <div style="top: 0px; left: -1300px; width: 1300px; height: 500px; position: absolute; overflow: hidden; transform-style: flat; z-index: 1;"><div style="top: 0px; left: 0px; width: 1300px; height: 500px; position: absolute; display: block; overflow: hidden; background-color: rgba(0, 0, 0, 0);"><img src="index_files/1566556634_fortune_73_1566556634317_7.jpg" data-u="image" class="slider_imgs" alt="silder-img" style="top: 0px; left: -158.081px; width: 1616.16px; height: 500px; position: absolute; display: block; max-width: 10000px; z-index: 1;" data-events="auto" data-display="block" border="0"></div><div style="top: 0px; left: 0px; width: 1300px; height: 500px; position: absolute; display: block; transform-style: preserve-3d; z-index: 1;" data-events="auto" data-display="block">
+                      <div class="item slider_p" data-events="auto" data-display="block" style="z-index: 1; top: 0px; left: 0px; width: 1300px; height: 500px; position: absolute; display: block;">
+                         
+                      </div>
+                   </div></div>
+                               </div></div></div>
+                
+                <style>
+                   .jssorb031 {position:absolute;}
+                   .jssorb031 .i {position:absolute;cursor:pointer;}
+                   .jssorb031 .i .b {fill:#000;fill-opacity:0.5;stroke:#fff;stroke-width:1200;stroke-miterlimit:10;stroke-opacity:0.3;}
+                   .jssorb031 .i:hover .b {fill:#fff;fill-opacity:.7;stroke:#000;stroke-opacity:.5;}
+                   .jssorb031 .iav .b {fill:#fff;stroke:#000;fill-opacity:1;}
+                   .jssorb031 .i.idn {opacity:.3;}
+                </style>
+                <div style="position: absolute; display: block; bottom: 12.4541px; left: 650.198px; width: 65.6045px; height: 16.4011px;"><div data-u="navigator" class="jssorb031" style="position: absolute; bottom: 12px; width: 64px; height: 16px; left: 0.802251px; top: 0.200563px; transform: scale(1.02507);" data-autocenter="1" data-scale="0.5" data-scale-bottom="0.75"><div data-u="prototype" class="i iav" style="width: 16px; height: 16px; position: absolute; left: 0px; top: 0px;" data-jssor-button="1">
+                      <svg viewBox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                         <circle class="b" cx="8000" cy="8000" r="5800"></circle>
+                      </svg>
+                   </div><div data-u="prototype" class="i" style="width: 16px; height: 16px; position: absolute; left: 24px; top: 0px;" data-jssor-button="1">
+                      <svg viewBox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                         <circle class="b" cx="8000" cy="8000" r="5800"></circle>
+                      </svg>
+                   </div><div data-u="prototype" class="i" style="width: 16px; height: 16px; position: absolute; left: 48px; top: 0px;" data-jssor-button="1">
+                      <svg viewBox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                         <circle class="b" cx="8000" cy="8000" r="5800"></circle>
+                      </svg>
+                   </div></div></div>
+                <!--#endregion Bullet Navigator Skin End -->
+                <!--#region Arrow Navigator Skin Begin -->
+                <!-- Help: https://www.jssor.com/development/slider-with-arrow-navigator.html -->
+                <style>
+                   .jssora051 {display:block;position:absolute;cursor:pointer;}
+                   .jssora051 .a {fill:none;stroke:#fff;stroke-width:360;stroke-miterlimit:10;}
+                   .jssora051:hover {opacity:.8;}
+                   .jssora051.jssora051dn {opacity:.5;}
+                   .jssora051.jssora051ds {opacity:.3;pointer-events:none;}
+                </style>
+                <div style="position: absolute; display: block; top: 234.152px; left: 25.946px; width: 57.0812px; height: 57.0812px;"><div data-u="arrowleft" class="jssora051" style="width: 55px; height: 55px; top: 1.04061px; left: 1.04061px; transform: scale(1.03784);" data-autocenter="2" data-scale="0.75" data-scale-left="0.75" data-jssor-button="1" data-nofreeze="1">
+                   <svg viewBox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                      <polyline class="a" points="11040,1920 4960,8000 11040,14080 "></polyline>
+                   </svg>
+                </div></div>
+                <div style="position: absolute; display: block; top: 234.152px; right: 25.946px; width: 57.0812px; height: 57.0812px;"><div data-u="arrowright" class="jssora051" style="width: 55px; height: 55px; top: 1.04061px; right: 25px; left: 1.04061px; transform: scale(1.03784);" data-autocenter="2" data-scale="0.75" data-scale-right="0.75" data-jssor-button="1" data-nofreeze="1">
+                   <svg viewBox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                      <polyline class="a" points="4960,1920 11040,8000 4960,14080 "></polyline>
+                   </svg>
+                </div></div>
+                <!--#endregion Arrow Navigator Skin End -->
+             </div>
+             <!-- Jssor Slider End -->
+          </div>
+       </div>
+    </header>

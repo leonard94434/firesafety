@@ -1,0 +1,110 @@
+/* mayuresh media queries for all devices*/
+
+
+/*mayuresh css responsive main.. for all pages */
+
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+    /*//CSS*/
+}
+
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+    /*//CSS*/
+}
+
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    /*//CSS*/
+}
+
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 991px) and (orientation: landscape) {
+    /*//CSS*/
+}
+
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+    /*//CSS*/
+}
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+    /* //CSS*/
+   .preffix_1 {
+       margin-left:0; 
+  }
+  .list.list-2 li {
+      width: 50%;
+      margin-bottom: 30px;
+  }
+    body {
+       padding-top: 0; 
+  }
+  .brand_logo {
+    position: absolute;
+    text-align: center;
+  }
+    .brand_logo img {
+      width: 27%;
+      margin: -20px -5rem;
+  }
+  .brand_logo.scroller {
+    top: 15px;
+  }
+  .brand_logo {
+    top: 20px;
+  }
+    button.navbar-toggler.navbar-toggler-right {
+      float: right;
+      z-index: 99;
+      background: #d42020;
+      border: 1px solid #3c3131;
+      color: #0a0a0a!important;
+  }
+  .row.tbl_h_t_u{
+    overflow: auto;
+  }
+  h2 {
+      font-size: 1.5rem;
+  }
+  p.m-0.text-center.text-white.rnk_f {
+    float: none;
+}
+p.m-0.text-center.text-white.sol_f {
+    float: none;
+}
+}
+
+
+/*eOf 320px to 480px*/

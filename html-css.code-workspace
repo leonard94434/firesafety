@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../html-css"
+		},
+		{
+			"path": "../ronakmodel"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"liveServer.settings.multiRootWorkspaceName": "ronakmodel"
+	}
+}
